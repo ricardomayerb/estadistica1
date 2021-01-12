@@ -1,8 +1,9 @@
 ---
-title: Unidad 1
+title: "Unidad 1"
 author: ricardo mayer
 date: '2021-01-11'
 slug: unidad-1
+type: post
 categories: []
 tags: []
 Description: ''
@@ -10,6 +11,7 @@ Tags: []
 Categories: []
 DisableComments: no
 weight: 10
+summary: Tipos de datos y tipos de variables 
 ---
 
 # hola 1
